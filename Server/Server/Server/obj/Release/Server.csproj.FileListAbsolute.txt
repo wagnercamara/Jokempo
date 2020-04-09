@@ -1,0 +1,6 @@
+C:\tmp\Server\Server\Server\bin\Release\Server.exe.config
+C:\tmp\Server\Server\Server\bin\Release\Server.exe
+C:\tmp\Server\Server\Server\bin\Release\Server.pdb
+C:\tmp\Server\Server\Server\obj\Release\Server.exe
+C:\tmp\Server\Server\Server\obj\Release\Server.pdb
+C:\tmp\Server\Server\Server\obj\Release\Server.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\tmp\Server\Server\Server\bin\Debug\Server.exe.config
+C:\tmp\Server\Server\Server\bin\Debug\Server.exe
+C:\tmp\Server\Server\Server\bin\Debug\Server.pdb
+C:\tmp\Server\Server\Server\obj\Debug\Server.exe
+C:\tmp\Server\Server\Server\obj\Debug\Server.pdb

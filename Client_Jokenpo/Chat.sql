@@ -1,0 +1,13 @@
+USE [master]
+GO
+    CREATE DATABASE [chat]
+GO
+    use [chat]
+GO
+    CREATE TABLE HISTORY (
+        ID_CONVERSA INT IDENTITY(1,1) PRIMARY KEY NOT NULL,
+        DATE VARCHAR (10) NOT NULL,
+        NOME VARCHAR (50) NOT NULL,
+        MENSSAGE VARCHAR (200)
+    );
+GO
